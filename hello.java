@@ -1,5 +1,7 @@
-public class hello{
-	public static void main(String[]args){
+public class hello
+{
+	public static void main(String[]args)
+	{
 		int a=12;
 		int b=52;
 		int c;
